@@ -14,6 +14,7 @@
 <h1 align="center" style="margin-top:20px">Hi there, I'm Kartikay Asija 👋 </h1>
  
 <h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Developer</h2>
+<h2 align="center"><a href="https://github.com/kartikayasija">Previous Github (github.com/kartikayasija)</a></h2>
 
  
 <h1>About me :</h1> 
